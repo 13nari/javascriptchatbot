@@ -1,2 +1,2 @@
 # javascriptchatbot
-This is a Javascript Chatbot
+This is a Javascript Chatbot.
